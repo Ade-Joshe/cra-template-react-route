@@ -1,7 +1,10 @@
 {
   "name": "cra-template-react-route-template",
   "version": "0.1.0",
-  "private": true,
+  "main": "template.json",
+  "author": "Adegoke Joshua Oluwafemi",
+  "description": "This is a react package from an already ",
+  "repository": "https://github.com/ade-joshe/cra-template-react-route",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

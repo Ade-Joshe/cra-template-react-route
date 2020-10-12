@@ -1,10 +1,18 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ade-Joshe/cra-template-react-route"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ade-Joshe/cra-template-react-route/issues"
+  },
+  "homepage": "https://github.com/Ade-Joshe/cra-template-react-route",
   "name": "cra-template-react-route-template",
   "version": "0.1.0",
   "main": "template.json",
   "author": "Adegoke Joshua Oluwafemi",
-  "description": "This is a react package from an already ",
-  "repository": "https://github.com/ade-joshe/cra-template-react-route",
+  "description": "Light weight templates for react -> has react router setup already with authenticated routes",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -34,5 +42,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "templates",
+    "react-templates",
+    "react",
+    "reactjs",
+    "react.js",
+    "react-component",
+    "react component"
+  ]
 }

@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/Ade-Joshe/cra-template-react-route",
   "name": "cra-template-react-route-template",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "main": "template.json",
   "author": "Adegoke Joshua Oluwafemi",
   "description": "Light weight templates for react -> has react router setup already with authenticated routes",
@@ -49,7 +49,6 @@
     "react",
     "reactjs",
     "react.js",
-    "react-component",
-    "react component"
+    "react-component"
   ]
 }
